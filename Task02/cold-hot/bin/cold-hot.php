@@ -5,6 +5,6 @@
     if (file_exists($github)) require_once($github);
     else require_once($packagist);
 
-    use function mariabrash\cold_hot\Controller\startGame;
+    use function Maria_brash\cold_hot\Controller\startGame;
     startGame();
 ?>

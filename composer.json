@@ -1,0 +1,22 @@
+{
+    "name": "maria_brash/task01",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Maria Tanysheva",
+            "email": "maria.tanysheva.080816@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/Test.php"
+        ]
+    },
+    "bin": [
+        "bin/run-test"
+    ]
+}

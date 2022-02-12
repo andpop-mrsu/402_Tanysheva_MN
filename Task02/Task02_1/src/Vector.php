@@ -16,8 +16,8 @@ class Vector
         }
 
         $this->CordX = (float)$CordX;
-        $this->CordY = (float)$Cordy;
-        $this->CordZ = (float)$Cordz;
+        $this->CordY = (float)$CordY;
+        $this->CordZ = (float)$CordZ;
     }
 
     public function add(Vector $vector): Vector

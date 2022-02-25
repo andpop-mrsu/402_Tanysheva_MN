@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'f126d2a0003d7ca24c7179ce1d9323c6388d6c05',
+    'reference' => 'd6952db444c2815e067eaa6cc3283721d4af4703',
     'name' => 'maria_brash/task02_2',
   ),
   'versions' => 
@@ -51,7 +51,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'f126d2a0003d7ca24c7179ce1d9323c6388d6c05',
+      'reference' => 'd6952db444c2815e067eaa6cc3283721d4af4703',
     ),
     'myclabs/deep-copy' => 
     array (
